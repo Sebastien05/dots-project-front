@@ -1,4 +1,4 @@
-# dots-hulls
+# dots-project
 
 ## Project setup
 ```
