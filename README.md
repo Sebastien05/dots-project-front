@@ -1,5 +1,15 @@
 # dots-project
 
+## Presentation
+
+### Sort by pixel Algorithm
+
+![Alt text](presentation/dotProject.jpg?raw=true "Title")
+
+### Ritter Algorithm
+
+![Alt text](presentation/dotProject2.jpg?raw=true "Title")
+
 ## Project setup
 ```
 npm install
@@ -10,15 +20,4 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
