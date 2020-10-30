@@ -2,13 +2,9 @@
 
 ## Presentation
 
-### Sort by pixel Algorithm
-
-![Alt text](presentation/dotProject.jpg?raw=true "Title")
-
-### Ritter Algorithm
-
-![Alt text](presentation/dotProject2.jpg?raw=true "Title")
+Sort by pixel Algorithm            |  Ritter Algorithm
+:-------------------------:|:-------------------------:
+![](presentation/dotProject.jpg?raw=true "Title")  |  ![](presentation/dotProject2.jpg?raw=true "Title")
 
 ## Project setup
 ```
